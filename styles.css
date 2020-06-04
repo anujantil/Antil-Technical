@@ -1,0 +1,1095 @@
+*
+{
+   padding:0px;
+   margin:0px;
+}
+
+/* FIRST PART OF THE WEBSITE */
+
+#mywebsite-1
+{
+    background-image: linear-gradient(lightcyan);
+    background-image: url("images/picture-7.jpg");
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    clip-path: polygon(0% 0%,100% 0%,100% 85%,50% 100%,0% 85%);
+    text-align:center;
+}
+
+nav
+{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.mylogo
+{
+    width: 70px;
+    height: 70px;
+
+    border-radius: 50%;
+
+    border: 2px solid lightcoral;
+}
+
+
+#navbar-brand
+{
+    font-size: 30px;
+}
+
+#nav-link
+{
+    color:white;
+    margin-right: 15px;
+
+    font-size:20px;
+}
+.first-heading
+{
+    padding-top:150px;
+    padding-bottom:150px;
+
+     
+    font-size:30px;   
+
+
+
+    color:#ffd8a6;
+
+    font-family: 'Teko', sans-serif;
+    
+}
+
+.first-heading h1
+{
+    font-size:70px;
+
+    margin-bottom:20px;
+
+    font-family: 'Piedra', cursive;
+}
+
+.first-heading button
+{
+    width: 150px;
+    margin:20px;
+
+    font-size:20px;
+
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+    
+}
+
+
+/* SECOND PART OF THE WEBSITE */
+
+#mywebsite-2
+{
+    margin:70px;
+
+    padding:10px;
+
+    font-family: 'Crimson Text', serif;
+
+}
+
+#mywebsite h3
+{
+    font-family: 'Merriweather', serif;
+}
+
+.second-part
+{
+    text-align:center;
+
+    font-size: 18px;
+}
+
+.logo
+{
+    color: #21bf73;
+}
+
+  /*SECOND-PART-1*/
+
+.second-part-1
+{
+    padding:5px;
+
+    border:2px solid lightgrey;
+
+    background-color: lightyellow;
+
+    
+
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.second-part-1 h3
+{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.second-part-1:hover
+{
+    transform: translateY(-30px);
+
+    background-color:lightgoldenrodyellow;
+}
+  /*SECOND-PART-2*/
+
+.second-part-2
+{
+    padding:5px;
+
+    padding-bottom:50px;
+
+    border:2px solid lightgrey;
+
+    background-color: lightyellow;
+
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.second-part-2 h3
+{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.second-part-2:hover
+{
+    transform: translateY(-30px);
+
+    background-color: lightgoldenrodyellow;
+}
+
+ /*SECOND-PART-3*/
+
+ #mywebsite-3
+ {
+     margin: 120px;
+ }
+
+.second-part-3
+{
+    padding:5px;
+
+    border:2px solid lightgrey;
+
+    background-color:lightyellow;
+
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.second-part-3 h3
+{
+    margin-top:15px;
+    margin-bottom:15px;
+
+    
+}
+
+.second-part-3:hover
+{
+    transform: translateY(-30px);
+
+    background-color: lightgoldenrodyellow;
+}
+
+
+/* THIRD PART OF THE WEBSITE */
+
+  #mywebsite-3
+  {
+    font-family: 'Merriweather', serif;
+  }
+
+  /* THIRD-PART-1 */
+
+
+  .third-part-1
+  {
+      text-align:center;
+      font-size: 18px;
+  }
+  
+  .heading-part-3
+  {
+      font-size:50px;
+      font-family: 'Vollkorn', serif;
+  }
+
+  /* THIRD-PART-2 */
+
+  .third-part-2
+  {
+      margin: 30px;
+  }
+
+  .progress
+  {
+      height:18px;
+      margin:20px;
+  }
+ 
+  
+  .progress-bar-blue
+  {
+      border:2px solid skyblue;
+  }
+
+  .progress-bar-green
+  {
+      border: 2px solid lightgreen;
+  }
+  
+  .progress-bar-yellow
+  {
+      border: 2px solid yellow;
+  }
+
+  .progress-bar-black
+  {
+      border: 2px solid black;
+  }
+
+  .progress-bar-red
+  {
+      border: 2px solid lightcoral;
+  }
+
+  /* THIRD-PART-3 */
+
+  .third-part-3
+  {
+      margin:30px;
+  }
+
+  .web-designing
+  {
+      padding:20px;
+  }
+  
+  .digital-marketing
+  {
+      padding:20px;
+  }
+  
+  .support
+  {
+      padding:20px;
+  }
+
+  .logo-web-designing
+  {
+      color:#21bf73;
+  }
+
+  .logo-digital-marketing
+  {
+      color: #21bf73;
+  }
+
+  .logo-support
+  {
+      color: #21bf73;
+  }
+
+     /* HOVER EFFECT IN LOGO */
+
+     .logo-web-designing:hover
+     {
+        
+
+        transform: rotate(-30deg);
+
+        color:  crimson;
+     }
+ 
+     .logo-digital-marketing:hover
+     {
+         transform: rotate(-30deg);
+         
+
+         color: crimson;
+     }
+
+     .logo-support:hover
+     {
+         transform: rotate(-30deg);
+
+         color: crimson;
+     }
+
+/* FORTH PART OF THE WEBSITE */
+   
+   #mywebsite-4
+   {
+       margin: 0px;
+       padding: 0px;
+
+       font-family: 'Merriweather', serif;
+   }
+
+   .main-part-4-1
+   {
+       text-align: center;
+   }
+
+   .heading-part-4
+   {
+       font-size: 50px;
+       font-family: 'Vollkorn', serif;
+   }
+
+   .main-part-4-2
+   {
+       padding:100px;
+
+       display: flex;
+
+       flex-direction: row;
+
+       justify-content: space-between;
+
+       align-items: center;
+
+       
+   }
+
+   .main-part-4-2 div
+   {
+       width: 20%;
+
+       text-align:center;
+
+       border: 2px solid yellow;
+
+       padding:30px;
+
+       border-radius: 20px;
+
+       background-color:  lightyellow;
+
+   }
+
+   .main-part-4-2 div:hover
+   {
+       transform: translateY(-20px);
+
+       background-color: lightgoldenrodyellow;
+       border-color: goldenrod;
+   }
+
+   
+   strong
+   {
+       color: lightsalmon;
+   }
+
+   .main-part-4-2 h4
+   {
+       margin:10px;
+   }
+
+   .symbol
+   {
+       color:  #21bf73;;
+   }
+
+   
+
+
+
+
+   @media (max-width: 1300px)
+   {
+       .main-part-4-2
+       {
+           display: flex;
+
+           justify-content: flex-start;
+
+           flex-direction: column;
+
+           align-items: center;
+
+       }
+
+       .main-part-4-2 div
+       {
+           width: 70%;
+
+
+           padding:30px;
+
+           padding-left: 20px;
+
+           margin-bottom: 30px;
+
+           text-align:center;
+
+           border-radius: 10px;
+
+           font-size: 15px;
+       }
+
+   }
+
+   .main-part-4-3
+   {
+       text-align:center;
+
+       padding-left: 300px;
+       padding-right:300px;
+   }
+
+   .forth-block
+   {
+       border: 2px solid yellow;
+
+       padding:30px;
+
+       border-radius: 20px;
+
+       background-color: lightyellow;
+   }
+
+   .forth-block:hover
+   {
+       transform: translateY(-20px);
+       
+       background-color: lightgoldenrodyellow;
+       border-color: goldenrod;
+   }
+
+/* FIFTH PART OF THE WEBSITE */
+
+
+#mywebsite-5
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+    text-align:center;
+
+    padding: 50px;
+
+    background: linear-gradient(160deg , #a8df65 55%,lightyellow 0%);
+
+    font-family: 'Merriweather', serif;
+
+}
+
+.heading-part-5
+{
+    font-size: 35px;
+
+    margin-bottom: 30px;
+
+    font-family: 'Vollkorn', serif;
+}
+
+.card-block
+{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.card
+{
+    margin-left: 30px;
+    border: 2px solid grey;
+}
+
+.card-header
+{
+    background-color: #fff;
+}
+
+.card-footer
+{
+    background-color: #fff;
+}
+
+.card-button
+{
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    border: 2px solid #fff;
+
+    color: #fff;
+}
+
+.strong-2
+{
+    font-size: 50px;
+}
+
+  /* FIRST-CARD HOVER */
+
+  .first-card:hover
+  {
+      transform: translateY(-20px);
+  }
+
+  .first-card:hover .card-header{
+      color:#79d70f;
+  }
+ 
+ .first-card:hover button{
+    color:black;
+    background-color: lightgreen;
+    border-color: green;
+ }
+
+  .first-card:hover strong
+  {
+      color: #79d70f;
+  }
+
+  /* SECOND-CARD HOVER */
+
+  .second-card:hover
+  {
+      transform: translateY(-20px);
+  }
+
+  .second-card:hover .card-header{
+      color:#79d70f;
+  }
+ 
+ .second-card:hover button{
+    color:black;
+    background-color: lightgreen;
+    border-color: green;
+ }
+
+  .second-card:hover strong
+  {
+      color: #79d70f;
+  }
+
+  /* THIRD-CARD HOVER */
+
+  .third-card:hover
+  {
+      transform: translateY(-20px);
+  }
+
+  .third-card:hover .card-header{
+      color:#79d70f;
+  }
+ 
+ .third-card:hover button{
+    color:black;
+    background-color: lightgreen;
+    border-color: green;
+ }
+
+  .third-card:hover strong
+  {
+      color: #79d70f;
+  }
+
+  /* MEDIA QUERY BREAKPOINT */
+
+  @media (max-width : 1300px)
+  {
+       .card-block
+       {
+           padding-left: 0px;
+           padding-top: 0px;
+
+           margin-top: 30px;
+
+           width: 40%;
+           
+           margin: auto;
+       }
+
+       .first-card
+       {
+           margin-bottom: 35px;
+       }
+
+       .second-card
+       {
+           margin-bottom: 35px;
+       }
+
+       .third-card
+       {
+           margin-bottom: 35px;
+       }
+  }
+
+/* SIXTH PART OF THE WEBSITE */
+
+#mywebsite-6
+{
+    
+    margin-top:20px;
+    margin-right: 15px;
+
+    background: linear-gradient(160deg , #edf492 55%, #d1eaa3 0%);
+
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+    margin-left: 15px;
+
+    
+}
+
+.heading-part-6
+{
+    font-family: 'Vollkorn', serif;
+
+    margin-top: 30px;
+}
+
+.carousel-image-1
+{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+
+    border: 2px solid black;
+}
+
+.carousel-image-2
+{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50%;
+
+    border: 2px solid black;
+}
+
+.carousel-image-3
+{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50%;
+
+    border: 2px solid black;
+}
+
+
+
+.first-part-of-the-carousel
+{
+    margin: 40px 0px 70px 280px;
+    text-align: center;
+   
+}
+
+.first-of-carousel
+{
+    border: 2px solid grey;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 20px;
+
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    background-color: #fff;
+}
+
+.first-of-carousel h3
+{
+    margin-bottom: 20px;
+}
+
+.second-of-carousel
+{
+    border: 2px solid grey;
+    margin: 10px;
+    padding: 10px;
+
+    margin-right: 20px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    background-color: #fff;f
+}
+
+.second-of-carousel h3
+{
+    margin-bottom: 20px;
+}
+
+.third-of-carousel
+{
+   border: 2px solid grey;
+   margin: 10px;
+   padding: 10px;
+
+   margin-right: 20px;
+
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+
+   background-color: #fff;
+}
+
+.third-of-carousel h3
+{
+    margin-bottom: 20px;
+}
+
+.second-part-of-the-carousel
+{
+    margin:40px 0px 70px 280px;
+    text-align: center;
+}
+
+.third-part-of-the-carousel
+{
+    margin: 40px 0px 70px 280px;
+    text-align: center;
+}
+
+  /* HOVER EFFECT TO THE PARTS OF CAROUSEL */
+
+  .first-of-carousel:hover
+  {
+      background-color: lightyellow;
+
+      color :  #ff9234;
+
+      transform: translateY(-20px);
+  }
+  .first-of-carousel:hover h3
+  {
+      color: coral;
+  }
+
+  .second-of-carousel:hover
+  {
+      background-color: lightyellow;
+      color: #ff9234;
+
+      transform: translateY(-20px);
+  }
+  .second-of-carousel:hover h3
+  {
+       color: coral;
+  }
+
+  .third-of-carousel:hover
+  {
+      background-color: lightyellow;
+      color: #ff9234;
+
+      transform: translateY(-20px);
+  }
+  .third-of-carousel:hover h3
+  {
+      color: coral;
+  }
+
+@media (max-width: 1200px)
+{
+    .carousel-image-1
+    {
+        width: 30px;
+        height: 30px
+    }
+    .carousel-image-2
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .carousel-image-3
+    {
+        width: 30px;
+        height: 30px;
+    }
+
+    .first-part-of-the-carousel
+    {
+        margin: 50px;
+
+        margin-right: 0px;
+        
+        padding-left: 50px;
+
+        
+    }
+
+    .second-part-of-the-carousel
+    {
+        margin: 50px;
+
+        margin-right: 0px;
+
+        padding-left: 50px;
+    }
+
+    .third-part-of-the-carousel
+    {
+        margin: 50px;
+
+        margin-right: 0px;
+
+        padding-left: 50px;
+    }
+}
+
+/* SEVENTH-PART-OF-THE-WEBSITE */
+
+#mywebsite-7
+{
+
+    margin:0px;
+
+    margin-right: 17px;
+
+    text-align: center;
+
+    margin-top: 40px;
+
+    background: linear-gradient(160deg, #fcefee 55%, #a7ff83 0%);
+
+    margin-left: 20px;
+
+    font-family: 'Merriweather', serif;
+}
+
+.first-block-of-seventh-part
+{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.heading-part-7
+{
+       font-family: 'Vollkorn', serif;
+}
+
+.second-block-of-seventh-part
+{
+ margin-bottom: 100px;
+}
+
+.name_input
+{
+    width: 500px;
+    height: 50px;
+    margin:2px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.email_input
+{
+    margin: 2px;
+
+    width: 500px;
+    height: 50px;
+
+    border:1px solid black;
+
+    border-radius: 5px;
+}
+
+.number_input
+{
+    margin: 2px;
+
+    width: 500px;
+    height: 50px;
+
+    border: 1px solid black;
+
+    border-radius: 5px;
+}
+
+.message_input
+{
+    margin: 5px;
+
+    width: 500px;
+    height: 130px;
+
+    border: 1px solid black;
+
+    border-radius: 5px;
+
+    text-align: left;
+}
+
+.subscriber_button
+{
+    margin-top: 50px;
+    background-color: #a7ff83;
+    color: #a7ff83;
+
+    border-color: #a7ff83;
+}
+
+.second-block-of-seventh-part:hover .subscriber_button
+{
+    background-color:  #79d70f;
+    color: #000;
+
+    border: 2px solid darkgreen;
+
+    padding-top: 10px;
+
+    padding-bottom: 10px;
+
+    border-radius : 15px;
+}
+
+
+/* EIGHTH-PART-OF-THE-WEBSITE */
+
+#mywebsite-8
+{
+    margin-top: 50x;
+
+    text-align: center;
+
+    font-family: 'Merriweather', serif;
+}
+
+.heading-part-8
+{
+    margin-top: 100px;
+
+    margin-bottom: 50px;
+
+    font-family: 'Vollkorn', serif;
+}
+
+
+.input-group
+{
+    width: 600px;
+    
+    text-align: center;
+    margin: auto;
+}
+
+
+.form-control
+{
+    border: 2px solid black;
+    border-right: none;
+    height: 45px;
+
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.merge-button
+{
+    border: 2px solid black;
+    border-left: none;
+
+    padding-left: 20px;
+
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    background-color: lightgreen;
+
+    
+}
+
+/* FOOTER-PART-OF-THE-WEBSITE */
+
+#mywebsite-9
+{
+    margin-top: 100px;
+    
+
+    padding-top: 100px;
+    
+
+    background-color: #a7ff83;
+
+    text-align: center;
+
+    font-family: 'Merriweather', serif;
+}
+
+.heading-part-9
+{
+    font-family: 'Vollkorn', serif;
+
+    margin-bottom: 20px;
+}
+
+.footer-section
+{
+    display: flex;
+
+    justify-content: space-around;
+
+    margin-bottom: 100px;
+}
+
+.input-group-2
+{
+    width: 200px;
+}
+
+
+/* MEDIA QUERY BREAKPOINT */
+
+
+@media (max-width: 1200px)
+{
+    .footer-section
+    {
+        display: flex;
+
+        flex-direction: column;
+
+        align-items: center;
+    }
+
+    .first-block-of-footer-section
+    {
+        margin-bottom: 50px;
+    }
+    
+    .second-block-of-footer-section
+    {
+        margin-bottom: 50px;
+    }
+
+    .third-block-of-footer-section
+    {
+        margin-bottom: 50px;
+    }
+}
+
+.copyright-section
+{
+    background-color: #f6f6f6;
+}
+
+
+
