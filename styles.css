@@ -18,6 +18,24 @@
     text-align:center;
 }
 
+/* MEDIA QUERY BREAKPOINT */
+
+@media (max-width: 1200px)
+{  
+    #mywebsite-1
+   {
+       background-image: url("picture-7.jpg");
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+      
+      clip-path: polygon(0% 0%,100% 0%,100% 60%,50% 100%,0% 60%);
+      
+
+
+}
+
+
 nav
 {
     font-family: 'Montserrat', sans-serif;
